@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 MERN Developer <br>🚀 Crafting seamless user experiences with modern web technologies.<br>🎯 Passionate about building dynamic, responsive applications with React.js, Next.js, and innovative UI/UX design.<br>💡 Always exploring new technologies and working on side projects.<br>🛠️ Code, create, and collaborate. Let’s build something awesome together!
 
 
